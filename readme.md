@@ -15,4 +15,4 @@ React
 
 ## Contact
 
-Avijit Sen-  avijitsen.me@gmail.com
+Gaurav Agarwal - agarwalgaurav3008@gmail.com
